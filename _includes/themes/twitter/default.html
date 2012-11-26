@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    <meta name="author" content="{{ site.author.name }}">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/css/bonnshore.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <!-- Le fav and touch icons -->
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
+  </head>
+
+  <body>
+  <div id="wrapper">
+      <div id="header-wrapper">
+          <header id="header">
+              <h1 id="logo"><a href="/">BonnShore的涂鸦馆</a> </h1>
+              <p class="description">woaixiaoxiongzhuxiaojin</p>
+              <p class="socialmedia">
+                  <a href="http://weibo.com/bonnshore?wvr=3.6&lf=reg" title="我的微博" rel="me">
+                      <img src="{{  BASE_PATH }}/assets/themes/twitter/img/socialmedia/weibo.png" title="我的微博" height="16" width="16"/>
+                      @伯恩先生
+                  </a>
+                  <a href="http://www.renren.com/232319024/profile" title="我的人人" rel="me">
+                      <img src="{{  BASE_PATH }}/assets/themes/twitter/img/socialmedia/renren.ico" title="我的人人" height="16" width="16"/>
+                      Mr肖博闻
+                  </a>
+                  <a href="http://blog.csdn.net/bonnshore" title="我的CSDN" rel="me">
+                      <img src="{{  BASE_PATH }}/assets/themes/twitter/img/socialmedia/csdn.png" title="我的CSDN" height="16" width="16"/>
+                      bonnshore
+                  </a>
+                  <a href="#" title="关于我" rel="me">
+                      <img src="{{  BASE_PATH }}/assets/themes/twitter/img/socialmedia/bonnshore.png" title="关于我" height="16" width="16">
+                      关于我
+                  </a>
+                  <a href="#" title="github" rel="me">
+                      <img src="{{  BASE_PATH }}/assets/themes/twitter/img/socialmedia/github.ico" title="github" height="16" width="16">
+                      github
+                  </a>
+              </p>
+              <nav>
+                  <ul id="nav">
+                      {% assign pages_list = site.pages %}
+                      {% assign group = 'navigation' %}
+                      {% include JB/pages_list %}
+                     <!-- <li>
+                          <a rel="nofollow" href="#">手机浏览</a>
+                      </li>
+                      <li>
+                          <a rel="nofollow" href="#">热门文章</a>
+                      </li>
+                      <li>
+                          <a rel="nofollow" href="#">登陆|登出</a>
+                      </li>-->
+                  </ul>
+              </nav>
+              <form id="searchform" action="/search" method="get">
+                  <input id="keywords" type="text" onwebkitspeechchange="this.parentNode.submit()" x-webkit-grammar="builtin:search" x-webkit-speech="" name="keywords" value=""
+                         placeholder="找找有啥好东东…">
+                  <input id="searchsubmit" type="submit" value="搜索">
+              </form>
+          </header>
+      </div>
+
+     <div id="body">
+         <section id="content">
+             {{ content }}
+         </section>
+
+
+          <footer>
+              <p>&copy; {{ site.author.name }} 2012
+                  with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+                  and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+              </p>
+          </footer>
+
+     </div>
+   {% include JB/analytics %}
+  </div>
+  </body>
+</html>
