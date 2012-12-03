@@ -20,7 +20,7 @@ Usage:
 {% if site.JB.posts_all.provider == "custom" %}
   {% include custom/posts_all %}
 {% else %}
-  {% for post in posts_all limit:count offset:0 %}
+  {% for post in posts_all limit :count offset: 0 %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
@@ -42,11 +42,13 @@ Usage:
         {{ post.description }}
     </section>
   </article>
-
   {% endfor %}
-  {% if posts_all.size > count %}
-    <hr />
-    <a class="btn btn-primary" href="post_all.html" style="float:right; padding-left:60px; padding-right:60px;">查看更多</a>
-  {% endif %}
+   <p class="post-nav">
+                     <span class="previous">
+                         <a href="{{ BASE_PATH }}/post_after.html">
+                             « 看看还有什么好玩意
+                         </a>
+                     </span>
+   </p>
 {% endif %}
 {% assign posts_all = nil %}

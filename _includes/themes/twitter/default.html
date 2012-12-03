@@ -81,6 +81,8 @@
          </section>
 
 
+         <input type="hidden" id="offsetvalue" value="{{ offset1 }}">
+
           <footer>
               <p>&copy; {{ site.author.name }} 2012
                   with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
@@ -91,5 +93,11 @@
      </div>
    {% include JB/analytics %}
   </div>
+
+  <script src="{{ BASE_PATH }}/assets/themes/twitter/JS/jquery-1.7.2.min.js" type="text/javascript"></script>
+  <script src="{{ BASE_PATH }}/assets/themes/twitter/JS/loadpage.js" type="text/javascript"></script>
+  <script src="{{ BASE_PATH }}/assets/themes/twitter/JS/scroll.js" type="text/javascript"></script>
+  <script src="{{ BASE_PATH }}/assets/themes/twitter/JS/test.js" type="text/javascript"></script>
+
   </body>
 </html>

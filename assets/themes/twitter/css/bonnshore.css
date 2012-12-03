@@ -101,6 +101,9 @@ textarea:focus, input[type=password]:focus, input[type=text]:focus, textarea:hov
 	margin-right: 270px;
 }
 
+#content1 {
+    margin-right: 270px;
+}
 #content.block {
 	margin-right: 280px;
 }
@@ -901,6 +904,10 @@ box-shadow: 0 0 20px rgba(0,235,255,.8);
 	#content {
 		margin-right: 0;
 	}
+    #content1{
+        margin-right: 0;
+    }
+
 	#content.block {
 		margin-right: 10px;
 	}
