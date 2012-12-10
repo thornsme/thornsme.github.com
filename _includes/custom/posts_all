@@ -45,7 +45,7 @@ Usage:
   {% endfor %}
    <p class="post-nav">
                      <span class="previous">
-                         <a href="{{ BASE_PATH }}/post_after.html">
+                         <a href="javascript:void(0)">
                              « 看看还有什么好玩意
                          </a>
                      </span>
