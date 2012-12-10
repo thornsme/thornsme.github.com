@@ -60,9 +60,12 @@ var cz_load = {
                     $("#cz_display").append(ext).slideDown(1000);
                     $("#cz_display").append($extend);
                     $("#cz_display").find('.post-nav>.previous>a').parent().after($no_more);
-                    cz_offset.val(origin+offset);
-                },1000)
+                },1000);
+                cz_offset.val(origin+offset);
+
+
             }
+
 
 
 
