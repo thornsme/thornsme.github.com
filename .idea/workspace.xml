@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="446df3ab-be77-4a51-b0fe-5faa8a45c709" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/app.js" afterPath="$PROJECT_DIR$/assets/js/app.js" />
     </list>
     <ignored path="thornsme.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +37,7 @@
       <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="34" selection-start="998" selection-end="998" vertical-scroll-proportion="0.56666666">
+            <state line="31" column="50" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.43333334">
               <folding />
             </state>
           </provider>
@@ -65,7 +64,7 @@
       <file leaf-file-name="index.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="23" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+            <state line="5" column="3" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -97,8 +96,8 @@
         <option value="$PROJECT_DIR$/_includes/custom/posts_all" />
         <option value="$PROJECT_DIR$/_includes/custom/posts_db" />
         <option value="$PROJECT_DIR$/_site/post.json" />
-        <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/_includes/themes/twitter/default.html" />
+        <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/assets/js/app.js" />
       </list>
     </option>
@@ -372,16 +371,9 @@
         <state line="6" column="0" selection-start="48" selection-end="48" vertical-scroll-proportion="0.2" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
+    <entry file="file://$PROJECT_DIR$/assets/themes/twitter/JS/loadpage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="23" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/custom/posts_all">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="7" selection-start="1613" selection-end="1843" vertical-scroll-proportion="0.0">
+        <state line="23" column="7" selection-start="570" selection-end="687" vertical-scroll-proportion="-15.2">
           <folding />
         </state>
       </provider>
@@ -393,16 +385,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/themes/twitter/JS/loadpage.js">
+    <entry file="file://$PROJECT_DIR$/_includes/custom/posts_all">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="7" selection-start="570" selection-end="687" vertical-scroll-proportion="-15.2">
+        <state line="51" column="7" selection-start="1613" selection-end="1843" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="3" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="34" selection-start="998" selection-end="998" vertical-scroll-proportion="0.56666666">
+        <state line="31" column="50" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.43333334">
           <folding />
         </state>
       </provider>
