@@ -24,6 +24,11 @@ var cz_load = {
                 '</p>');
             var $no_more = $('<span class="no-more"><a href="javascript:;">停止自动加载</a></span>');
             var ext='';
+
+            $no_more.find('a').click(function() {
+                $window.unbind();
+                $no_more.remove();
+            });
             $(cz_load.articles).each(function(i,e)
             {
                 if(i >= origin)
@@ -56,7 +61,7 @@ var cz_load = {
                     $("#cz_display").append($extend);
                     $("#cz_display").find('.post-nav>.previous>a').parent().after($no_more);
                     cz_offset.val(origin+offset);
-                },1500)
+                },1000)
             }
 
 
