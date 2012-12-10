@@ -13,11 +13,11 @@ var cz_load = {
             var $window=$(window);
             var $content = $('#content');
             var top = $content.offset().top;
-            var offset=5;
+            var offset = 5;
             var cz_offset = $("#cz_offset");
             var origin = (cz_offset.val() == ''?0:cz_offset.val());
             origin=parseInt(origin);
-            var $extend = $( '<p class="post-nav"><span class="previous"><a href="archive.html">' +
+            var $extend = $( '<p class="post-nav"><span class="previous"><a href="assets/archive.html">' +
                 ' « 看看还有什么好玩意'+
                 '</a>'+
                 ' </span>'+
