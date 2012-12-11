@@ -12,7 +12,7 @@
        "year": "{{ post.date|date:"%Y" }}",
        "month": "{{ post.date|date:"%m" }}",
        "day": "{{ post.date|date:"%d" }}",
-       "time": "{{ post.date|date:"%I:%m %p" }}",
+       "time": "{{ post.date|date:"%I:%M %p" }}",
        "comment": "3条评论",
        "views": "167次查看"
    }{% if forloop.last %} {% else %} , {% endif %}

@@ -5,10 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="446df3ab-be77-4a51-b0fe-5faa8a45c709" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/weibo.js" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-19-index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-22-first.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test1.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test10.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test2.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test3.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test4.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test5.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test6.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test7.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test8.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test9.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-28-test11.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-28-test12.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-28-test13.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-28-test14.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-28-test15.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-28-test16.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test17.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test18.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test20.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test21.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test22.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test23.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test24.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test25.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test26.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test27.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test28.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test29.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test30.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\core-samples\2011-12-29-jekyll-introduction.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/custom/posts_all" afterPath="$PROJECT_DIR$/_includes/custom/posts_all" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/custom/posts_db" afterPath="$PROJECT_DIR$/_includes/custom/posts_db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/themes/twitter/default.html" afterPath="$PROJECT_DIR$/_includes/themes/twitter/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/app.js" afterPath="$PROJECT_DIR$/assets/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/themes/twitter/JS/test.js" afterPath="$PROJECT_DIR$/assets/themes/twitter/JS/test.js" />
     </list>
     <ignored path="thornsme.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,10 +62,28 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/js/app.js">
+      <file leaf-file-name="Rakefile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rakefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="96" selection-start="2489" selection-end="2489" vertical-scroll-proportion="0.6921676">
+            <state line="64" column="43" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2012-12-11-15-45-PM-test38.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2012-12-11-15-45-PM-test38.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="22" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="83" column="34" selection-start="3906" selection-end="3906" vertical-scroll-proportion="0.36121672">
               <folding />
             </state>
           </provider>
@@ -40,16 +92,7 @@
       <file leaf-file-name="archive.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/archive.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="168" selection-end="168" vertical-scroll-proportion="-6.785714">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="0" selection-start="4865" selection-end="4865" vertical-scroll-proportion="-14.75">
+            <state line="10" column="0" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -58,7 +101,7 @@
       <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="10" selection-start="639" selection-end="639" vertical-scroll-proportion="-9.571428">
+            <state line="19" column="10" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -67,34 +110,7 @@
       <file leaf-file-name="bonnshore.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/themes/twitter/css/bonnshore.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="116" column="24" selection-start="2431" selection-end="2431" vertical-scroll-proportion="-5.08">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/themes/twitter/JS/test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="17" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="posts_db" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/custom/posts_db">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="posts_all" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/custom/posts_all">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0">
+            <state line="116" column="24" selection-start="2431" selection-end="2431" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -104,6 +120,33 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
             <state line="1" column="15" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posts_all" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/custom/posts_all">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="65" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posts_db" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/custom/posts_db">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="44" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/themes/twitter/JS/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="17" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -122,30 +165,29 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/post_after.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/offset" />
         <option value="$PROJECT_DIR$/assets/themes/twitter/JS/loadpage.js" />
         <option value="$PROJECT_DIR$/post.json" />
-        <option value="$PROJECT_DIR$/_includes/custom/posts_db" />
         <option value="$PROJECT_DIR$/_site/post.json" />
         <option value="$PROJECT_DIR$/_includes/custom/posts_archive" />
         <option value="$PROJECT_DIR$/archive.html" />
-        <option value="$PROJECT_DIR$/_includes/custom/posts_all" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/assets/js/weibo.js" />
         <option value="$PROJECT_DIR$/assets/themes/twitter/css/bonnshore.css" />
         <option value="$PROJECT_DIR$/assets/themes/twitter/JS/test.js" />
-        <option value="$PROJECT_DIR$/_includes/themes/twitter/default.html" />
         <option value="$PROJECT_DIR$/assets/js/app.js" />
+        <option value="$PROJECT_DIR$/_includes/custom/posts_db" />
+        <option value="$PROJECT_DIR$/_includes/custom/posts_all" />
+        <option value="$PROJECT_DIR$/Rakefile" />
+        <option value="$PROJECT_DIR$/_includes/themes/twitter/default.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="1" />
-    <option name="width" value="1278" />
-    <option name="height" value="758" />
+    <option name="x" value="-8" />
+    <option name="width" value="1292" />
+    <option name="height" value="776" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -173,7 +215,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -308,24 +349,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core-samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thornsme.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thornsme.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -372,11 +395,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/js/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
@@ -409,13 +433,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1278" height="758" extended-state="0" />
+    <frame x="-8" y="0" width="1292" height="776" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24939467" sideWeight="0.67114097" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2482043" sideWeight="0.67114097" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -485,20 +509,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="23" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="19" selection-start="4171" selection-end="4171" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="13" selection-start="1796" selection-end="1796" vertical-scroll-proportion="0.0">
@@ -535,23 +545,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/custom/posts_db">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/custom/posts_all">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/themes/twitter/css/bonnshore.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="116" column="24" selection-start="2431" selection-end="2431" vertical-scroll-proportion="-5.08">
+        <state line="116" column="24" selection-start="2431" selection-end="2431" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -565,28 +561,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/archive.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="168" selection-end="168" vertical-scroll-proportion="-6.785714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="0" selection-start="4865" selection-end="4865" vertical-scroll-proportion="-14.75">
+        <state line="10" column="0" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="10" selection-start="639" selection-end="639" vertical-scroll-proportion="-9.571428">
+        <state line="19" column="10" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="96" selection-start="2489" selection-end="2489" vertical-scroll-proportion="0.6921676">
+        <state line="40" column="66" selection-start="1457" selection-end="1457" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/custom/posts_db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="44" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/custom/posts_all">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="65" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="43" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-12-11-15-45-PM-test38.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="22" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="34" selection-start="3906" selection-end="3906" vertical-scroll-proportion="0.36121672">
           <folding />
         </state>
       </provider>
