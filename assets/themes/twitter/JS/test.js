@@ -9,7 +9,7 @@
 function tijiao()
 {
     var  xmlHttp = new XMLHttpRequest();//创建ie支持的xmlHttp对象
-    xmlHttp.open("GET","offset.xml",true);//打开本地的一个歌词文件
+    xmlHttp.open("GET","post.json",true);//打开本地的一个歌词文件
     xmlHttp.onreadystatechange=function()
     {
         if (xmlHttp.readyState==4)
