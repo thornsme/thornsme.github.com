@@ -5,43 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="446df3ab-be77-4a51-b0fe-5faa8a45c709" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/weibo.js" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-19-index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-22-first.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test1.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test10.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test2.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test3.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test4.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test5.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test6.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test7.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test8.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-27-test9.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-28-test11.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-28-test12.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-28-test13.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-28-test14.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-28-test15.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-28-test16.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test17.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test18.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test20.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test21.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test22.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test23.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test24.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test25.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test26.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test27.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test28.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test29.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\2012-11-29-test30.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\thornsme.github.com\_posts\_site\core-samples\2011-12-29-jekyll-introduction.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/custom/posts_all" afterPath="$PROJECT_DIR$/_includes/custom/posts_all" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/custom/posts_db" afterPath="$PROJECT_DIR$/_includes/custom/posts_db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/themes/twitter/default.html" afterPath="$PROJECT_DIR$/_includes/themes/twitter/default.html" />
     </list>
     <ignored path="thornsme.github.com.iws" />
@@ -83,7 +46,7 @@
       <file leaf-file-name="default.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="34" selection-start="3906" selection-end="3906" vertical-scroll-proportion="0.36121672">
+            <state line="83" column="47" selection-start="3919" selection-end="3919" vertical-scroll-proportion="0.36121672">
               <folding />
             </state>
           </provider>
@@ -610,7 +573,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="34" selection-start="3906" selection-end="3906" vertical-scroll-proportion="0.36121672">
+        <state line="83" column="47" selection-start="3919" selection-end="3919" vertical-scroll-proportion="0.36121672">
           <folding />
         </state>
       </provider>
